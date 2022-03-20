@@ -5,8 +5,8 @@
   "main": "scripts.js",
   "scripts": {
     "dev": "parcel index.html",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy": "npm run dev",
+    "deploy": "gh-pages -d dev",
     "homepage": "https://ness-anastasiya.github.io/Rectangle/"
   },
   "author": "Anastasiya Nesterenko",
