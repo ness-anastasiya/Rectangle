@@ -1,4 +1,5 @@
 # RECTANGLE
+App is published at https://ness-anastasiya.github.io/Rectangle/
 
 # How to start
 1. npm i
