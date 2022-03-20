@@ -4,11 +4,15 @@
   "description": "Create, edit and move rectangles",
   "main": "scripts.js",
   "scripts": {
-    "dev": "parcel index.html"
+    "dev": "parcel index.html",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "homepage": "https://ness-anastasiya.github.io/Rectangle/"
   },
   "author": "Anastasiya Nesterenko",
   "license": "ISC",
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "parcel-bundler": "^1.12.5"
   }
 }

@@ -13,7 +13,7 @@ This app allows you
 # Behaviour
 1. To creact new rectangle click "Creacte new rectangle" button
 2. To move the rectangle make mouse down, drag the rectangle, make mouse up
-3. To change border radius make mouse down on the dot, drag the dot, make mouse up.
+3. To change border radius make mouse down on the dot, drag the dot, make mouse up
 4. You can only move the dot horizontally along the border of the rectangle
 5. Movement to the left is limited by the middle of the side of the rectangle
 6. Movement to the right is limited by the edge of the rectangle
