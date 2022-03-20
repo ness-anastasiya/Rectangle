@@ -1,0 +1,14 @@
+{
+  "name": "rectangle",
+  "version": "1.0.0",
+  "description": "Create, edit and move rectangles",
+  "main": "scripts.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html"
+  },
+  "author": "Anastasiya Nesterenko",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
