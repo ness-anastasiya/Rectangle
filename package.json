@@ -4,7 +4,7 @@
   "description": "Create, edit and move rectangles",
   "main": "scripts.js",
   "scripts": {
-    "dev": "parcel ./src/index.html"
+    "dev": "parcel index.html"
   },
   "author": "Anastasiya Nesterenko",
   "license": "ISC",
